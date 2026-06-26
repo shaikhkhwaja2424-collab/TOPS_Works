@@ -2,30 +2,37 @@
 
 # Instagram Testing Activities
 
-1. Loging Testing
-2. <br>
+1. Loging Testing <br>
 Verify user can login with valid credentials.
 <br>
 Verify errors messeage for invalid credentials.
 <br>
 Verify forgot password functionality.
 
-3. Notification Testing
+2. Notification Testing <br>
 Verify like notifications.
+<br>
 Verify comment notifications.
-Verify notification redirection
+<br>
+Verify notification redirection.
 
-4. Performance Testing
+3. Performance Testing <br>
 Verify app loading speed.
+<br>
 Verify smooth scrolling of reels.
+<br>
 Verify app stability under heavy load.
 
-5. Security Testing
+5. Security Testing <br>
 Verify user data protection.
+<br>
 Verify password encryption.
+<br>
 Verify unauthorized access prevention.
 
-6. Compatibility Testing
+6. Compatibility Testing <br>
 Verify app on Android devices.
+<br>
 Verify app on iOS devices.
+<br>
 Verify different screen resolutions.
